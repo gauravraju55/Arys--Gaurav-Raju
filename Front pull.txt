@@ -1,0 +1,3 @@
+3d=true
+polyline=true
+70	30.5	296
